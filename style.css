@@ -118,3 +118,10 @@ ul{
 #mail-to-button{
 	background-color: green;
 }
+.social-icon{
+  width:20px;
+  margin:10px;
+  text-align: center;
+  color:inherit;
+
+}
